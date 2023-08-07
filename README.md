@@ -1,11 +1,10 @@
-# GPA Tracker Spreadsheet for BSc Engineering Degree - University of Moratuwa
+# GPA Tracker Spreadsheet for College
 
-Welcome to the GPA Tracker Spreadsheet designed to help BSc Engineering students at the University of Moratuwa calculate their Semester Grade Point Average (SGPA) and Overall Grade Point Average (OGPA). This tool aims to fill the gap in the Learning Management System (LMS) by providing a convenient and efficient way to track your academic progress.
-This can be used by any college student to track their GPA by following the steps mentioned below.
+Welcome to the GPA Tracker Spreadsheet designed to help College students calculate their Semester Grade Point Average (SGPA) and Overall Grade Point Average (OGPA). 
 
 ## Motivation
 
-The idea behind creating this GPA Tracker Spreadsheet is to empower students with an effective tool for calculating SGPA and especially the OGPA. This spreadsheet automates the process and provides a user-friendly interface to manage your academic data.
+The idea behind creating this GPA Tracker Spreadsheet is to empower students with an effective tool for calculating SGPA and especially the OGPA. This tool aims to fill the gap in the Learning Management System (LMS) that was present in the BSc Engineering Degree - University of Moratuwa by providing a convenient and efficient way to track your academic progress. This spreadsheet automates the process and provides a user-friendly interface to manage your academic data.
 
 ## How to Use
 
